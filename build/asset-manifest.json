@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GloboMart/static/css/main.2c9d5c28.css",
+    "main.js": "/GloboMart/static/js/main.4a323351.js",
+    "static/js/787.564c7e86.chunk.js": "/GloboMart/static/js/787.564c7e86.chunk.js",
+    "static/media/undraw_web_shopping_re_owap.png": "/GloboMart/static/media/undraw_web_shopping_re_owap.1b0b385ee3cfbbc30fa9.png",
+    "index.html": "/GloboMart/index.html",
+    "main.2c9d5c28.css.map": "/GloboMart/static/css/main.2c9d5c28.css.map",
+    "main.4a323351.js.map": "/GloboMart/static/js/main.4a323351.js.map",
+    "787.564c7e86.chunk.js.map": "/GloboMart/static/js/787.564c7e86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9d5c28.css",
+    "static/js/main.4a323351.js"
+  ]
+}
